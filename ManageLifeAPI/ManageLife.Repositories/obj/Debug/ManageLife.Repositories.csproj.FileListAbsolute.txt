@@ -1,0 +1,12 @@
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\ManageLife.Repositories.dll.config
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\ManageLife.Repositories.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\ManageLife.Repositories.pdb
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\EntityFramework.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\ManageLife.Data.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\ManageLife.Data.pdb
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\EntityFramework.xml
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\obj\Debug\ManageLife.Repositories.csprojResolveAssemblyReference.cache
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\obj\Debug\ManageLife.Repositories.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManageLife.Repositories\obj\Debug\ManageLife.Repositories.pdb

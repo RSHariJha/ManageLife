@@ -1,0 +1,15 @@
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManagLife.Data.Test.dll.config
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManagLife.Data.Test.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManagLife.Data.Test.pdb
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\EntityFramework.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManageLife.Data.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManageLife.Data.pdb
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\EntityFramework.xml
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\obj\Debug\ManageLife.Data.Test.csprojResolveAssemblyReference.cache
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\obj\Debug\ManagLife.Data.Test.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\obj\Debug\ManagLife.Data.Test.pdb
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManageLife.Repositories.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\ManageLife.Repositories.pdb
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\KrishnaDocument\ManageYourLife\ManageYourLife-API\ManageLife\ManageLifeAPI\ManagLife.Data.Test\bin\Debug\EntityFramework.SqlServer.xml
